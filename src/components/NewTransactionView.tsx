@@ -38,7 +38,8 @@ interface NewTransactionViewProps {
 const EXPENSE_GROUPS: TransactionGroup[] = [
   'Despesa Rotineira',
   'Despesa Eventual',
-  'Investimento',
+  'Despesa Financeira',
+  'Dívida ou Parcelamento',
 ];
 
 const INCOME_GROUPS: TransactionGroup[] = [
