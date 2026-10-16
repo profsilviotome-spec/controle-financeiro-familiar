@@ -1,0 +1,6 @@
+{
+  "name": "FinFamília - Gestão Financeira Familiar",
+  "description": "Painel financeiro familiar moderno com controle mensal, contas bancárias, cartões de crédito e lançamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
